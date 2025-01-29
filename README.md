@@ -1,4 +1,4 @@
-# dhs-term-search
+# term-check
 DHS has directed us to search for specific terms that must be removed from DHS websites. This repo includes two jupyter notebooks to search `docx` documents and webpages for the presence of the terms supplied.
 
 ## Notebooks
